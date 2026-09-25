@@ -32,6 +32,6 @@ Self-hosted media server running inside a Docker container on Ubuntu.
 
 ## Network Topology
 
-![Home Lab Network Topology](topology.png)****
+![Home Lab Network Topology](topology.png)
 
 
