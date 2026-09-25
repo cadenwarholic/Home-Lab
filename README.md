@@ -34,4 +34,12 @@ Self-hosted media server running inside a Docker container on Ubuntu.
 
 ![Home Lab Network Topology](topology.png)
 
+## Automation 
 
+I also decided to automate the process of transferring movies from my Windows PC to my Ubuntu VM using a Windows batch (.bat) script.
+
+The script uses SCP to transfer the movie to the Ubuntu VM and SSH to remotely move it into the Jellyfin Movies directory. It also includes error checking to verify that each step completed successfully.
+
+This gave me hands-on experience with Windows batch scripting, SSH, SCP, Linux file management, and remote server administration.
+
+View the automation script here ! --> ![add-movie.bat](add-movie.bat)
