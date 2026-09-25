@@ -42,4 +42,4 @@ The script uses SCP to transfer the movie to the Ubuntu VM and SSH to remotely m
 
 This gave me hands-on experience with Windows batch scripting, SSH, SCP, Linux file management, and remote server administration.
 
-View the automation script here ! --> ![add-movie.bat](scripts/add-movie.bat)
+View the automation script here: [add-movie.bat](scripts/add-movie.bat)
