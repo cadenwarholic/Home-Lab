@@ -30,6 +30,8 @@ This homelab is used to gain hands-on experience with:
 ### Jellyfin
 Self-hosted media server running inside a Docker container on Ubuntu.
 
+## Network Topology
 
+![Home Lab Network Topology](topology.png)****
 
 
